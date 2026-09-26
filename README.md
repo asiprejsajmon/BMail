@@ -4,7 +4,7 @@ BMail uses MailTM´s api to get free domain which he then uses for creating free
 
 Installation:
 
-git clone https://github.com/asiprejsajmon/BMail
+git clone https://github.com/asiprejsajmon/BMail.git
 python -m venv .venv
 source .venv/bin/activate
 pip install -m mailtm
